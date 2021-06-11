@@ -16,3 +16,7 @@ required]. [No need to implement “Signup with Google” etc. Just plain signup
 are given below.
 
 - https://www.peopleperhour.com/site/register
+
+#Screen Shots of Built Website
+![image](https://user-images.githubusercontent.com/85407775/121721135-59610800-cafd-11eb-8fa5-5a203062e1a1.png)
+![image](https://user-images.githubusercontent.com/85407775/121721213-6f6ec880-cafd-11eb-9d1b-c8e922418b4e.png)
