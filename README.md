@@ -18,11 +18,12 @@ are given below.
 - https://www.peopleperhour.com/site/register
 
 # Screen Shots of Built Website
-- ![image](https://user-images.githubusercontent.com/85407775/121721135-59610800-cafd-11eb-8fa5-5a203062e1a1.png)
-- ![image](https://user-images.githubusercontent.com/85407775/121721213-6f6ec880-cafd-11eb-9d1b-c8e922418b4e.png)
-- ![image](https://user-images.githubusercontent.com/85407775/121721374-a04efd80-cafd-11eb-8ab1-aad1a8c2cf8a.png)
+![image](https://user-images.githubusercontent.com/85407775/121721135-59610800-cafd-11eb-8fa5-5a203062e1a1.png)
+![image](https://user-images.githubusercontent.com/85407775/121721213-6f6ec880-cafd-11eb-9d1b-c8e922418b4e.png)
+![image](https://user-images.githubusercontent.com/85407775/121721374-a04efd80-cafd-11eb-8ab1-aad1a8c2cf8a.png)
 
 - Clicking on Sign Up
-
-- ![image](https://user-images.githubusercontent.com/85407775/121721567-d5f3e680-cafd-11eb-9403-af39679d0e12.png)
-- ![image](https://user-images.githubusercontent.com/85407775/121721724-fe7be080-cafd-11eb-8671-8262febe08ca.png)
+- 
+![image](https://user-images.githubusercontent.com/85407775/121721567-d5f3e680-cafd-11eb-9403-af39679d0e12.png)
+![image](https://user-images.githubusercontent.com/85407775/121721724-fe7be080-cafd-11eb-8671-8262febe08ca.png)
+![image](https://user-images.githubusercontent.com/85407775/121721945-40a52200-cafe-11eb-97c4-df9ef8351493.png)
