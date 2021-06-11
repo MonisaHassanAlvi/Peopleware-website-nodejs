@@ -1,0 +1,47 @@
+{
+  "arr_withObjects": [
+    {
+      "img": "img1.jpg",
+      "title": "Get any WordPress Issue/Problem fixed",
+      "skills": ["wordpress(cms)"],
+      "logo": "img11.jpg",
+      "name": "by Esteem T.",
+      "star": "star.PNG",
+      "rating": "5.0",
+      "reviews": "(2878)",
+      "price": "$20",
+      "time": "delivererd in 1 day"
+    },
+    {
+      "img": "img2.jpg",
+      "title": "Do 1 hour of customizations / fixes / revisions in your website",
+      "skills": [
+        "bug fixing",
+        "customization",
+        "theme customization",
+        "web",
+        "website fixes",
+        "website maintenance"
+      ],
+      "logo": "img21.jpg",
+      "name": "by Vortex I.",
+      "star": "star.PNG",
+      "rating": "5.0",
+      "reviews": "(1643)",
+      "price": "$30",
+      "time": "delivererd in 1 day"
+    },
+    {
+      "img": "img3.jpg",
+      "title": "Provide 30 mins of fixes & maintenance to WordPress website",
+      "skills": ["development", "wordpress(cms)", "wordpress development"],
+      "logo": "img31.jpg",
+      "name": "by Rahul P.",
+      "star": "star.PNG",
+      "rating": "5.0",
+      "reviews": "(1135)",
+      "price": "$15",
+      "time": "delivererd in 3 days"
+    }
+  ]
+}
