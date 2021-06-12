@@ -1,5 +1,5 @@
-# Peopleware-website-nodejs
-Peopleware website pages are implemented using REACT, Javascript, CSS and NODEJS.
+# Peopleperhour-website-nodejs
+Peopleperhour website pages are implemented using REACT, Javascript, CSS and NODEJS.
 
 # Tools & Applications
 - Npm 6.14.8
